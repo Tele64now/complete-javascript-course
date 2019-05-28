@@ -1,5 +1,5 @@
 /*****************************
-* Variables and data types
+* Variables and data types for training
 */
 /*
 var firstName = 'John';
